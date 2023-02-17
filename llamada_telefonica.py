@@ -12,10 +12,10 @@ minutos = int(input("INGRESE LOS MINUTOS DE LA LLAMADA: "))
 
 #processing
 
-if minutos < 3:
+if minutos <= 3:
     costo = 300
 
-if minutos > 3:
+else:
     costo = 300 + (minutos - 3) * 50
 
 
