@@ -7,4 +7,4 @@ ingresar el tiempo de duracion de una llamada telefonica y determinar la cantida
 - cada minuto adicional cuesta 50 pesos
 
 #Diagrama de flujo
-![Diagrama de flujo](diagrama.png "Diagrama de fl)
+![Diagrama de flujo](diagrama.png "Diagrama de flujo")
